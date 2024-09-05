@@ -1,0 +1,67 @@
+.nav-pills .nav-link {
+    border-radius: 0;
+  }
+  
+  .nav-pills .nav-link.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .nav-pills .nav-link {
+    border: 1px solid #dee2e6;
+  }
+  
+  .tab-content {
+    padding: 1rem;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    border-radius: 0.25rem;
+  }
+  
+  .btn-link {
+    color: #007bff;
+    font-size: 1.5rem;
+  }
+  
+  .btn-link:hover {
+    color: #0056b3;
+  }
+  
+  .form-outline {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .form-outline .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .form-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.5rem 0.75rem;
+    pointer-events: none;
+    color: #6c757d;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .form-check-input {
+    position: relative;
+    margin-top: 0.3rem;
+    margin-left: -1.25rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
